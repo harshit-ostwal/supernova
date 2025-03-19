@@ -1,13 +1,23 @@
-import { Geist, Geist_Mono } from "next/font/google";
+import { Figtree, Geist_Mono, Righteous } from "next/font/google";
 import "./globals.css";
+import Footer from "./components/footer";
+import Navbar from "./components/navbar";
+import Cursor from "./components/cursor";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const righteous = Righteous({
+  variable: "--font-righteous",
+  weight: ["400"],
   subsets: ["latin"],
 });
 
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
+  subsets: ["latin"],
+});
+
+const figtree = Figtree({
+  variable: "--font-figtree",
+  weight: ["400", "300", "500", "600", "700", "800", "900"],
   subsets: ["latin"],
 });
 
@@ -19,10 +29,11 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      <body className={`${righteous.variable} ${figtree.variable} ${geistMono.variable} tracking-tighter font-figtree antialiased`}>
+        <Cursor />
+        <Navbar />
         {children}
+        <Footer />
       </body>
     </html>
   );
