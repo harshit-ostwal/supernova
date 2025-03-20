@@ -10,7 +10,7 @@ function CountDown() {
             <div className="w-full max-w-4xl px-6 transition-opacity duration-500 opacity-100">
                 {/* Eyebrow text */}
                 <div className="text-center mb-6">
-                    <span className="bg-gradient-to-r from-pink-500 to-purple-500 text-transparent bg-clip-text text-sm font-bold tracking-widest uppercase">
+                    <span className="bg-gradient-to-r from-pink-500 to-purple-500 text-transparent bg-clip-text font-bold tracking-widest uppercase">
                         Are you ready?
                     </span>
                 </div>
