@@ -28,7 +28,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang="en" suppressContentEditableWarning suppressHydrationWarning>
       <body className={`${righteous.variable} ${figtree.variable} ${geistMono.variable} tracking-tighter font-figtree antialiased`}>
         <Cursor />
         <Navbar />
