@@ -10,7 +10,7 @@ import Guideline from './components/guideline'
 
 function page() {
   return (
-    <div className="flex flex-col items-center justify-center gap-20 overflow-hidden w-full">
+    <div className="flex flex-col items-center justify-center overflow-hidden w-full">
       <div className="w-11/12 relative flex flex-col gap-20">
         <Banner />
         <div className="loader left-0 h-40 lg:h-60"></div>
