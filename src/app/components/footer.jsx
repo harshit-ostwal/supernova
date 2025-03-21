@@ -21,8 +21,8 @@ function Footer() {
                 </div>
             </div>
             <div className="flex flex-col lg:flex-row gap-6 items-center w-full md:w-11/12 justify-between">
-                <h3 className="text-2xl">COPYRIGHT 2025 - SUPERNOVA</h3>
-                <h3 className="text-2xl">GO TO TOP!</h3>
+                <h3 className="text-xl lg:text-2xl">COPYRIGHT 2025 - SUPERNOVA</h3>
+                <h3 className="text-xl lg:text-2xl">GO TO TOP!</h3>
             </div>
         </div>
     )
