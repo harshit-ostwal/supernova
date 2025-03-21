@@ -57,7 +57,7 @@ const FaqData = [
     },
     {
         question: "Who is organizing the Supernova Hackathon?",
-        answer: "The event is organized by HackWithIndia (HWI), a leading platform promoting innovation and tech-driven problem-solving in India."
+        answer: "The event is organized by Supernova, a leading platform promoting innovation and tech-driven problem-solving in India."
     }
 ];
 
