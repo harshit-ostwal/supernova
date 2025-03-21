@@ -1,7 +1,7 @@
 const FaqData = [
     {
-        question: "What is BuildWithIndia Hackathon?",
-        answer: "BuildWithIndia Hackathon is a national-level coding competition where participants solve real-world problems through innovation and technology. It provides a platform for developers, designers, and entrepreneurs to showcase their skills."
+        question: "What is Supernova Hackathon?",
+        answer: "Supernova Hackathon is a national-level coding competition where participants solve real-world problems through innovation and technology. It provides a platform for developers, designers, and entrepreneurs to showcase their skills."
     },
     {
         question: "Who can participate in the hackathon?",
@@ -13,7 +13,7 @@ const FaqData = [
     },
     {
         question: "Is there any registration fee?",
-        answer: "No, participation in the BuildWithIndia Hackathon is completely free."
+        answer: "No, participation in the Supernova Hackathon is completely free."
     },
     {
         question: "How do I register for the hackathon?",
@@ -56,7 +56,7 @@ const FaqData = [
         answer: "Projects will be evaluated based on innovation, feasibility, technical implementation, and presentation."
     },
     {
-        question: "Who is organizing the BuildWithIndia Hackathon?",
+        question: "Who is organizing the Supernova Hackathon?",
         answer: "The event is organized by HackWithIndia (HWI), a leading platform promoting innovation and tech-driven problem-solving in India."
     }
 ];
