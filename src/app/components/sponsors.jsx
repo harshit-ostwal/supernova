@@ -5,19 +5,19 @@ import React from 'react'
 function Sponsors() {
 
     return (
-        <div className="flex flex-col items-center mx-auto gap-20 relative py-20">
+        <div className="flex flex-col items-center mx-auto gap-20 relative">
             {/* Blurred gradient background */}
             <div className="absolute -z-20 w-full h-full">
-                <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[70%] h-[70%] bg-gradient-to-r from-amber-500/20 via-pink-500/20 to-purple-500/20 rounded-full blur-[120px]"></div>
+                <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[70%] h-[70%] bg-gradient-to-r from-orange-500/20 via-pink-500/20 to-purple-500/20 rounded-full blur-[120px]"></div>
             </div>
 
             <div className="flex flex-col items-center gap-6 text-center">
-                <h1 className="text-[2.5rem] sm:text-[4rem] font-righteous font-semibold tracking-normal">Hackathon <span className="text-amber-500">Past Sponsors</span></h1>
-                <div className="w-28 rounded-full h-1 bg-amber-500" />
+                <h1 className="text-[2.5rem] sm:text-[4rem] font-righteous font-semibold tracking-normal">Hackathon <span className="text-orange-500 drop-shadow-[0_0_15px_rgba(245,158,11,0.5)]">Past Sponsors</span></h1>
+                <div className="w-28 rounded-full h-1 bg-orange-500" />
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-20 items-center">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-20">
                 {SponsorsData.map((data, index) => (
-                    <div key={index} className="w-96 h-60 flex justify-center items-center">
+                    <div key={index} className="w-40 lg:w-60 lg:h-40 h-20 flex justify-center items-center">
                         <Image
                             draggable={false}
                             src={data.src}
