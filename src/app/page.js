@@ -24,7 +24,7 @@ function page() {
         {/* <Timeline /> */}
         <About />
         <Tracks />
-        <Sponsors />
+         {/*<Sponsors />*/}
         <Organiser />
         <FAQ />
       </div>
