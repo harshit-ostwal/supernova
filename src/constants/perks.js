@@ -13,7 +13,7 @@ export const PerksData = [
     {
         Icon: <GiTShirt className="w-8 h-8 md:w-10 md:h-10" />,
         title: "Free T-Shirts",
-        description: "Get a free HackWithIndia T-shirt!",
+        description: "Get a free SuperNova T-shirt!",
         bgColor: "#10b981"
     },
     {
