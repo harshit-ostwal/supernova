@@ -12,7 +12,7 @@ function Sponsors() {
             </div>
 
             <div className="flex flex-col items-center gap-6 text-center">
-                <h1 className="text-[2.5rem] sm:text-[4rem] font-righteous font-semibold tracking-normal">Hackathon <span className="text-orange-500 drop-shadow-[0_0_15px_rgba(245,158,11,0.5)]">Past Sponsors</span></h1>
+                <h1 className="text-[2.5rem] sm:text-[4rem] font-righteous font-semibold tracking-normal">Hackathon <span className="text-[#004aac] drop-shadow-[0_0_15px_#004aac]">Past Sponsors</span></h1>
                 <div className="w-28 rounded-full h-1 bg-orange-500" />
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-20">

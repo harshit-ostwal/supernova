@@ -5,7 +5,7 @@ function Tracks() {
     return (
         <div className="flex flex-col gap-20 items-center justify-center">
             <div className="flex flex-col items-center gap-6 text-center">
-                <h1 className="text-[2.5rem] sm:text-[4rem] font-righteous font-semibold tracking-normal">Supernova <span className="text-orange-500 drop-shadow-[0_0_15px_rgba(245,158,11,0.5)]">Tracks</span></h1>
+                <h1 className="text-[2.5rem] sm:text-[4rem] font-righteous font-semibold tracking-normal">SuperNova <span className="text-[#004aac] drop-shadow-[0_0_15px_#004aac]">Tracks</span></h1>
                 <div className="w-28 rounded-full h-1 bg-orange-500" />
             </div>
 

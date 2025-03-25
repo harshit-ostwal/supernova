@@ -1,11 +1,5 @@
 export const SponsorsData = [
     {
-        src: "https://cdn.brandfetch.io/idchmboHEZ/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B",
-        title: "Microsoft",
-        desc: "",
-        invert: false
-    },
-    {
         src: "https://github.com/ETHIndia/brand-assets/blob/master/On%20Dark/ETHIndia@4x.png?raw=true",
         title: "Eth-India",
         desc: "",
@@ -18,22 +12,10 @@ export const SponsorsData = [
         invert: false
     },
     {
-        src: "https://cdn.brandfetch.io/idYF-w0yaw/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B",
-        title: "Flagsmith",
-        desc: "",
-        invert: false
-    },
-    {
         src: "https://cdn.brandfetch.io/idSrK1NQ5y/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B",
         title: "Polygon",
         desc: "",
         invert: true,
-    },
-    {
-        src: "https://cdn.brandfetch.io/ide0NUuTHO/idAjbJK2-Q.svg?c=1dxbfHSJFAPEGdCLU4o5B",
-        title: "Solana",
-        desc: "",
-        invert: false
     },
     {
         src: "https://cdn.brandfetch.io/ido8Wu58rI/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B",
@@ -48,44 +30,14 @@ export const SponsorsData = [
         invert: false
     },
     {
-        src: "https://cdn.brandfetch.io/idwyNr8lJj/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B",
-        title: "IDP",
-        desc: "",
-        invert: false
-    },
-    {
-        src: "https://media.geeksforgeeks.org/gfg-gg-logo.svg",
-        title: "GeeksForGeeks",
-        desc: "",
-        invert: false
-    },
-    {
-        src: "https://cdn.brandfetch.io/idcAR6qpu9/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B",
-        title: "Geekster",
-        desc: "",
-        invert: false
-    },
-    {
-        src: "https://cdn.brandfetch.io/idaJvrBLPH/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B",
-        title: "Hack2Skill",
-        desc: "",
-        invert: false
-    },
-    {
         src: "https://cdn.brandfetch.io/idGDIX1CZd/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B",
         title: "Unstop",
         desc: "",
         invert: false
     },
     {
-        src: "https://cdn.brandfetch.io/idrVtxty7B/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B",
-        title: "Postman",
-        desc: "",
-        invert: false
-    },
-    {
         src: "https://cdn.brandfetch.io/id6gIHunJH/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B",
-        title: "ETHIndia",
+        title: "Devfolio",
         desc: "",
         invert: false
     },
@@ -102,8 +54,26 @@ export const SponsorsData = [
         invert: true
     },
     {
-        src: "https://raw.githubusercontent.com/Conflux-Chain/design-resource-lab/bfc1897c7592040262b8d4218b90e6775c2c64b8/0.%20CONFLUX%20LOGO/Wide%20lockup/with%20space/Conflux_with%20space_SVG/clear%20black.svg",
-        title: "Conflux",
+        src: "https://cdn.brandfetch.io/idmPQXX073/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B",
+        title: "Taskade",
+        desc: "",
+        invert: true
+    },
+    {
+        src: "https://cdn.brandfetch.io/ideRRB4-kx/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B",
+        title: "Coding Blocks",
+        desc: "",
+        invert: false
+    },
+    {
+        src: "https://cdn.brandfetch.io/idssig0_jY/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B",
+        title: "Zoho",
+        desc: "",
+        invert: false
+    },
+    {
+        src: "https://cdn.brandfetch.io/idOZK17Mct/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B",
+        title: "Abhi Bus",
         desc: "",
         invert: false
     },

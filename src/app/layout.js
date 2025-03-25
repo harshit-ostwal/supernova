@@ -22,24 +22,24 @@ const figtree = Figtree({
 });
 
 export const metadata = {
-  title: "Supernova 2025",
-  description: "Supernova Hackathon 2025 is a national-level hybrid hackathon",
+  title: "SuperNova 2025",
+  description: "SuperNova Hackathon 2025 is a national-level hybrid hackathon",
   keywords:
-    "Supernova, national level, 2025, hackathon, technology, innovation, developers, coding, AI",
+    "SuperNova, national level, 2025, hackathon, technology, innovation, developers, coding, AI",
   author: "Harshit Jain",
-  metadataBase: new URL("https://supernova25.vercel.app/"),
+  metadataBase: new URL("https://SuperNova25.vercel.app/"),
   openGraph: {
-    title: "Supernova Hackathon 2025",
-    url: "https://supernova25.vercel.app",
+    title: "SuperNova Hackathon 2025",
+    url: "https://SuperNova25.vercel.app",
     type: "website",
-    images: "/supernova.png",
+    images: "/SuperNova.png",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Supernova Hackathon 2025",
-    images: "/supernova.png",
+    title: "SuperNova Hackathon 2025",
+    images: "/SuperNova.png",
   },
-  applicationName: "Supernova Hackathon",
+  applicationName: "SuperNova Hackathon",
 };
 
 export default function RootLayout({ children }) {

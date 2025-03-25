@@ -18,7 +18,7 @@ function banner2() {
           <h1 className="text-xl sm:text-2xl"><span className="font-semibold">Mode:</span> Offline (Round 1 Online, Round 2 Offline)</h1>
         </div>
         <div className="flex items-center gap-3">
-          <Users className="w-10 h-10 text-orange-500" />
+          <Users className="w-10 h-10 text-[#004aac]" />
           <h1 className="text-xl sm:text-2xl"><span className="font-semibold">Expected Participation:</span> 500+ participants</h1>
         </div>
         <div className="flex items-center gap-3">

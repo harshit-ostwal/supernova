@@ -5,7 +5,7 @@ function Guideline() {
     return (
         <div className="flex flex-col gap-20  items-center justify-center w-full">
             <div className="flex flex-col items-center text-center gap-6">
-                <h1 className="text-[2.5rem] sm:text-[4rem] leano font-righteous font-semibold tracking-normal">Guidelines For <span className="text-orange-500 drop-shadow-[0_0_15px_rgba(245,158,11,0.5)]">Supernova</span></h1>
+                <h1 className="text-[2.5rem] sm:text-[4rem] leano font-righteous font-semibold tracking-normal">Guidelines For <span className="text-[#004aac] drop-shadow-[0_0_15px_#004aac]">SuperNova</span></h1>
                 <div className="w-28 rounded-full h-1 bg-orange-500" />
             </div>  
             <div className="grid grid-cols-1 lg:grid-cols-2 w-full lg:w-fit gap-10">

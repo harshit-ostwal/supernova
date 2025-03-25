@@ -10,7 +10,7 @@ function About() {
 
             <div className="flex flex-col gap-6">
                 <h1 className="text-5xl sm:text-6xl md:text-7xl font-righteous font-bold">About</h1>
-                <h3 className="text-xl md:text-2xl lg:text-3xl tracking-normal font-medium max-w-7xl">Supernova Hackathon 2025 is a national-level hybrid hackathon, set to ignite innovation on April 18, 2025. With an open innovation theme, this event brings together 500+ participants bright minds to brainstorm, build, and showcase groundbreaking solutions. Split into two phases—an online kickoff followed by an offline showdown—Supernova challenges participants to push the boundaries of technology. Whether you're into AI, IoT, fintech, sustainability, or beyond, this hackathon is your chance to innovate, compete, and connect with like-minded tech enthusiasts.</h3>
+                <h3 className="text-xl md:text-2xl lg:text-3xl tracking-normal font-medium max-w-7xl">SuperNova Hackathon 2025 is a national-level hybrid hackathon, set to ignite innovation on April 18, 2025. With an open innovation theme, this event brings together 500+ participants bright minds to brainstorm, build, and showcase groundbreaking solutions. Split into two phases—an online kickoff followed by an offline showdown—SuperNova challenges participants to push the boundaries of technology. Whether you're into AI, IoT, fintech, sustainability, or beyond, this hackathon is your chance to innovate, compete, and connect with like-minded tech enthusiasts.</h3>
             </div>
 
             <div className="border border-black p-5 flex flex-col items-start gap-4 max-w-7xl justify-center rounded backdrop-blur-md bg-white/30">
