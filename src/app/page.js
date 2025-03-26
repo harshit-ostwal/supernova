@@ -19,13 +19,13 @@ function page() {
         <button className="md:text-xl cursor-pointer text-lg lg:text-2xl bg-black w-fit mx-auto text-white px-10 py-4 font-semibold rounded-2xl">Register Now</button>
         <CountDown />
         <Banner2 />
+        <About />
+        <Tracks />
         <Participate />
         <Guideline />
         {/* <Timeline /> */}
-        <About />
-        <Tracks />
          {/*<Sponsors />*/}
-        <Organiser />
+        {/*<Organiser />*/}
         <FAQ />
       </div>
     </div>
